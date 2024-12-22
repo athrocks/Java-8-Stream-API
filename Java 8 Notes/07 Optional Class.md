@@ -7,7 +7,7 @@
 
 - You can view Optional as a single-value container that either contains a value or doesn't (it is then said to be "empty")
 
-	![[Pasted image 20241221215848.png]]
+	![Optional img](https://github.com/athrocks/Java-8-Stream-API/blob/main/Java%208%20Notes/img/Pasted%20image%2020241221215848.png)
 
 ---
 
