@@ -10,7 +10,7 @@
 
 ### How Streams work?
 
-![[Pasted image 20241222120753.png]]
+![Stream img](https://github.com/athrocks/Java-8-Stream-API/blob/main/Java%208%20Notes/img/Pasted%20image%2020241222120753.png)
 
 
 #### 1. Create Stream from Source
