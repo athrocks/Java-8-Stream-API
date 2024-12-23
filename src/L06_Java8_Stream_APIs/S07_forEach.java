@@ -70,11 +70,6 @@ public class S07_forEach {
             System.out.println("Name:- " + value.getName());
             System.out.println("Age:- " + value.getAge());
         });
-
-
-
-
-
     }
 }
 
