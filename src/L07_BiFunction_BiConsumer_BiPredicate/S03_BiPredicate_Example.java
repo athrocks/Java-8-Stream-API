@@ -1,6 +1,5 @@
-package L07_BiFunction_BiConsumer_BiProduct;
+package L07_BiFunction_BiConsumer_BiPredicate;
 
-import java.util.Objects;
 import java.util.function.BiPredicate;
 
 class BiPredicateDemo implements BiPredicate<Double, Double> {

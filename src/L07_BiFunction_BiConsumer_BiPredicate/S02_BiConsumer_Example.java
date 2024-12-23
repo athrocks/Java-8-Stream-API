@@ -1,4 +1,4 @@
-package L07_BiFunction_BiConsumer_BiProduct;
+package L07_BiFunction_BiConsumer_BiPredicate;
 
 
 import java.util.function.BiConsumer;
