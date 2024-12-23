@@ -29,6 +29,12 @@ Explores the powerful Stream API for processing collections and sequences of dat
 - Intermediate operations like `filter`, `map`, and `sorted`.
 - Terminal operations like `collect`, `forEach`, and `reduce`.
 
+### L07_BiFunction_BiConsumer_BiPredicate  
+Explores the utility of `BiFunction`, `BiConsumer`, and `BiPredicate` functional interfaces for handling operations involving two inputs. Includes examples of:  
+- **`BiFunction`**: For applying a function to two arguments and producing a result.  
+- **`BiConsumer`**: For performing an operation that accepts two arguments but returns no result.  
+- **`BiPredicate`**: For evaluating a condition with two arguments and returning a boolean.  
+
 ## How to Use This Repository
 Each folder contains:
 - **Code Examples**: Demonstrates how to implement and use the feature in real-world scenarios.
